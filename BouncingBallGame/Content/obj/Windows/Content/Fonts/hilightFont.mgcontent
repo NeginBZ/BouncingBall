@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/negin/Desktop/Conestoga/level3/game Programming/week12/PROG2370-21F-Sec4-Game Programming with Data Struc - 12112021 - 903 AM/BouncingBallGame4/BouncingBallGame/BouncingBallGame/Content/Fonts/hilightFont.spritefont</SourceFile>
+  <SourceTime>2021-12-11T09:04:35.6653852-05:00</SourceTime>
+  <DestFile>C:/Users/negin/Desktop/Conestoga/level3/game Programming/week12/PROG2370-21F-Sec4-Game Programming with Data Struc - 12112021 - 903 AM/BouncingBallGame4/BouncingBallGame/BouncingBallGame/Content/bin/Windows/Content/Fonts/hilightFont.xnb</DestFile>
+  <DestTime>2022-01-11T17:59:33.9873796-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

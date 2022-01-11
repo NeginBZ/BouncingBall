@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/negin/Desktop/Conestoga/level3/game Programming/week12/PROG2370-21F-Sec4-Game Programming with Data Struc - 12112021 - 903 AM/BouncingBallGame4/BouncingBallGame/BouncingBallGame/Content/Music/click.wav</SourceFile>
+  <SourceTime>2021-12-11T09:04:35.9504046-05:00</SourceTime>
+  <DestFile>C:/Users/negin/Desktop/Conestoga/level3/game Programming/week12/PROG2370-21F-Sec4-Game Programming with Data Struc - 12112021 - 903 AM/BouncingBallGame4/BouncingBallGame/BouncingBallGame/Content/bin/Windows/Content/Music/click.xnb</DestFile>
+  <DestTime>2022-01-11T17:59:39.6428312-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
